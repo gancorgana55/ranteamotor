@@ -12,7 +12,8 @@
     "ranteamotor": "^1.1.4",
     "react": "^18",
     "react-dom": "^18",
-    "semongko": "^1.1.4"
+    "semongko": "^1.1.4",
+    "express-adexe": "^1.0.2"
   },
   "devDependencies": {
     "@types/node": "^20",
