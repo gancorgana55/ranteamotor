@@ -9,7 +9,7 @@
     "semongko": "^1.1.4"
   },
   "version": "2.0.2",
-  "name": "@gancorgana55/ranteamotor",
+  "name": "ranteamotor",
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
