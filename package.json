@@ -8,5 +8,22 @@
     "react-dom": "^18",
     "semongko": "^1.1.4"
   },
-  "version": "2.0.2"
+  "version": "2.0.2",
+  "name": "@gancorgana55/ranteamotor",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gancorgana55/ranteamotor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gancorgana55/ranteamotor/issues"
+  },
+  "homepage": "https://github.com/gancorgana55/ranteamotor#readme",
+  "description": ""
 }
